@@ -1,0 +1,7 @@
+a=int(input("a ni kiriting : "))
+b=int(input("b ni kiriting : "))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a**2)
